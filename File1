@@ -9,3 +9,7 @@ This is test
 String s="Ravi";
 String rev="";
 int l=s.lenth();
+
+for(int i=l-1;i>=0;i--){
+rev=rev+s.charat(i);
+}
