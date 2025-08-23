@@ -4,3 +4,8 @@ i am working in gurugram
 This is test 
 This is test
 This is test
+
+
+String s="Ravi";
+String rev="";
+int l=s.lenth();
